@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Master-Slave Replication를 위한 시스템 변수
+title: MariaDB 시스템 변수
 date: 2017-10-23
 excerpt: ""
 tags: [gtid, mariadb, mysql, replication, system, variables]
