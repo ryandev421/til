@@ -8,4 +8,4 @@
 
 
 ### MariaDB
-- [System Variables](mariadb/2017-10-23-mariadb-system-variables.md)
+- [System Variables](/mariadb/2017-10-23-mariadb-system-variables.md)
