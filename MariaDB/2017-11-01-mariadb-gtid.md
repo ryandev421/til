@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MariaDB GTID(Global Transaction ID)
-date: 2017-10-30
+date: 2017-11-01
 excerpt: "GTID가 나온 배경과 관련 시스템 변수 요약"
 tags: [mariadb, mysql, replication, gtid]
 comments: true
