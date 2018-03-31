@@ -3,7 +3,7 @@ layout: post
 title: sshguard에 의해 접속 실패하는 경우 해결방법
 date: 2018-04-01
 excerpt: ""
-tags: [ssh, sshguard, password, block]
+tags: [ssh, sshguard, password-block]
 comments: true
 category: development
 ---

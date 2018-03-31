@@ -3,7 +3,7 @@ layout: post
 title: MariaDB 시스템 변수
 date: 2017-10-23
 excerpt: ""
-tags: [gtid, mariadb, mysql, replication, system, variables]
+tags: [mariadb, mysql, system-variables]
 comments: true
 category: development
 ---

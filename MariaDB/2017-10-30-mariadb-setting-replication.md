@@ -3,7 +3,7 @@ layout: post
 title: MariaDB Replication 설정
 date: 2017-10-30
 excerpt: ""
-tags: [gtid, mariadb, mysql, replication, extrabackup, percona]
+tags: [gtid, mariadb, mysql, replication, extrabackup, percona-toolkit]
 comments: true
 category: development
 ---
