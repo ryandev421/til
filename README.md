@@ -1,6 +1,6 @@
 # TIL
 
-> Today I learned
+> 👨🏼‍💻 Today I learned
 
 You can read these here: https://ryanpark.me/development/
 
