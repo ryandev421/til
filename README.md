@@ -17,7 +17,7 @@ You can read these here: https://ryanpark.me/development/
 - [Repeatable Read Isolation Level](MariaDB/2018-03-30-mariadb-repeatable-read.md)
 
 ### Swift
-- [Memory Manage](Swift/2018-04-02-memory-manage.md)
+- [Memory Manage & ARC](Swift/2018-04-02-memory-manage.md)
 
 ### ETC
 - [sshguard blocking](ETC/2018-04-01-sshguard-password-block.md)
