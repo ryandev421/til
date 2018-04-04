@@ -8,6 +8,7 @@ You can read these here: https://ryanpark.me/development/
 
 - [MariaDB](#mariadb)
 - [Swift](#swift)
+- [Terraform](#terraform)
 - [ETC](#etc)
 
 ### MariaDB
@@ -18,6 +19,9 @@ You can read these here: https://ryanpark.me/development/
 
 ### Swift
 - [Memory Manage & ARC](Swift/2018-04-02-memory-manage.md)
+
+### Terraform
+- [KMS Encryption](Terraform/2018-04-04-kms-encryption.md)
 
 ### ETC
 - [Sshguard](ETC/2018-04-01-sshguard-password-block.md)
