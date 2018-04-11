@@ -7,6 +7,7 @@ You can read these here: https://ryanpark.me/development/
 ## Categories
 
 - [MariaDB](#mariadb)
+- [Munin](#munin)
 - [Swift](#swift)
 - [Terraform](#terraform)
 - [ETC](#etc)
@@ -16,6 +17,9 @@ You can read these here: https://ryanpark.me/development/
 - [Repeatable Read Isolation Level](MariaDB/2018-03-30-mariadb-repeatable-read.md)
 - [Setting Replication](MariaDB/2017-10-30-mariadb-setting-replication.md)
 - [System Variables](MariaDB/2017-10-23-mariadb-system-variables.md)
+
+### Munin
+- [Mysql Plugin Install](Munin/2018-04-11-munin-mysql-plugin-install.md)
 
 ### Swift
 - [Memory Manage & ARC](Swift/2018-04-02-memory-manage.md)
