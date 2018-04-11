@@ -20,7 +20,7 @@ env.mysqluser root
 env.mysqlconnection DBI:mysql:mysql;mysql_read_default_file=/etc/mysql/debian.cnf
 ...
 ```
-해당 내용을 통해 "/etc/mysql/debian.cnf"을 이용해 접속한다는 것을 확인 가능하다.
+해당 내용을 통해 `/etc/mysql/debian.cnf`을 이용해 접속한다는 것을 확인 가능하다.
 
 ### 2. "/etc/mysql/debian.cnf" 에서 접속정보(user, password) 변경
 
