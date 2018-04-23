@@ -6,11 +6,15 @@ You can read these here: https://ryanpark.me/development/
 
 ## Categories
 
+- [Makefile](#makefile)
 - [MariaDB](#mariadb)
 - [Munin](#munin)
 - [Swift](#swift)
 - [Terraform](#terraform)
 - [ETC](#etc)
+
+### Makefile
+- [How to add help target](Makefile/2018-04-24-how-to-show-help.md)
 
 ### MariaDB
 - [GTID](MariaDB/2017-11-01-mariadb-gtid.md)
