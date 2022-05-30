@@ -2,7 +2,7 @@
 
 > 👨🏼‍💻 Today I learned
 
-You can read these here: https://ryanpark.me/development/
+Blog: https://ryanpark.dev/
 
 ## Categories
 
