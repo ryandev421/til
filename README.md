@@ -6,7 +6,7 @@ You can read these here: https://ryanpark.me/development/
 
 ## Categories
 
-- [DDD(Domain-Driven-Design)](#ddd(Domain Driven Design))
+- [DDD(Domain-Driven-Design)](#ddddomain-driven-design)
 - [Makefile](#makefile)
 - [MariaDB](#mariadb)
 - [Munin](#munin)
