@@ -16,6 +16,7 @@ Blog: https://ryanpark.dev/
 - [ETC](#etc)
 
 ### DDD(Domain Driven Design)
+- [Architecture](DDD/architecture.md)
 - [Domain](DDD/domain.md)
 
 
